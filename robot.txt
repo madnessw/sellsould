@@ -1,0 +1,7 @@
+er-agent: Yandex
+User-agent: Google
+User-agent: Rambler
+User-agent: MSN
+User-agent: Aport
+Disallow:/login/
+Disallow:/phpmyadmin/
